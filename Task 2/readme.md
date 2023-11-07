@@ -1,6 +1,6 @@
 # Task 2.1
 
-Program that solves the nonlinear system of equations AX = F(X) with epsilon accuracy using the iteration method AX^(k+1) = F(X^(k)) and computes the error with the maximum norm. Solves the resulting system of equations in each iteration using LU decomposition. Creates the diagonal matrix An*n and the vector function F(X) of length N as follows:
+Program that solves the nonlinear system of equations AX = F(X) with ϵ accuracy using the iteration method AX^(k+1) = F(X^(k)) and computes the error with the maximum norm. Solves the resulting system of equations in each iteration using LU decomposition. Creates the diagonal matrix An*n and the vector function F(X) of length N as follows:
 
 ![Salyga](https://i.imgur.com/HjKjFre.png)
 
@@ -12,5 +12,5 @@ Solved the equation using the method of gradients (maximum slope). After creatin
 
 ![Salyga2](https://i.imgur.com/JMBhzdk.png) 
 
-This guaranteed positive definiteness. Calculated the error using the maximum norm with epsilon precision. Compared with the running time of solving with the exact method from the first part.
+This guaranteed positive definiteness. Calculated the error using the maximum norm with ϵ precision. Compared with the running time of solving with the exact method from the first part.
 
