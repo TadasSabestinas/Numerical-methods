@@ -14,3 +14,13 @@ Solved the equation using the method of gradients (maximum slope). After creatin
 
 This guaranteed positive definiteness. Calculated the error using the maximum norm with ϵ precision. Compared with the running time of solving with the exact method from the first part.
 
+## Original task:
+
+### Task 2.1
+
+![Salyga3](https://i.imgur.com/DPe4j2B.png) 
+
+### Task 2.2
+
+![Salyga4](https://i.imgur.com/bVt51sW.png)
+
